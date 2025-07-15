@@ -1,0 +1,34 @@
+# Ignorar la carpeta de corpus procesado
+corpus_procesado/
+
+# Ignorar la base de datos de Chroma
+chroma_novelas_db/
+
+# Ignorar archivos de claude
+.claude/
+
+# Ignorar archivos de entorno
+.env
+.venv/
+env/
+venv/
+
+# Ignorar archivos de configuración de IDE
+.idea/
+.vscode/
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos de dependencias
+node_modules/
+*.egg-info/
+dist/
+build/
+
+# Ignorar archivos de Jupyter Notebook
+.ipynb_checkpoints/
