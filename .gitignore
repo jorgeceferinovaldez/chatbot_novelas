@@ -7,6 +7,9 @@ chroma_novelas_db/
 # Ignorar archivos de claude
 .claude/
 
+# Ignorar carpeta de iconos de macOS
+.DS_Store
+
 # Ignorar archivos de entorno
 .env
 .venv/
