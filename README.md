@@ -16,7 +16,7 @@ Script RAG → Lee corpus_procesado/novela_X/ → Chunking (por novela) → Embe
 Pregunta → Agente LLM (determina novela(s) relevante(s)) → Embedding de pregunta → Búsqueda en colección(es) específica(s) → Fragmentos relevantes → Modelo generativo → Respuesta
 ```
 
-![Flujo de trabajo](img/flujo.png)
+![Flujo de trabajo](img/workflow_rag.png)
 
 ## Corpus de Novelas
 
