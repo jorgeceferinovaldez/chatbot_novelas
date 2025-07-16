@@ -1,0 +1,16 @@
+pregunta,tipo,score_general,similaridad_contexto,nombres_inventados,fechas_inventadas,contextos_recuperados,respuesta
+¿Quién es el protagonista de Tristana?,especifica,0.9564264416694641,0.8257057666778564,0,0,5,La protagonista de Tristana es Tristana.
+¿Cómo se llama el burrito en Platero y yo?,especifica,0.9601970016956329,0.8407880067825317,0,0,5,La respuesta a la pregunta es: Platero.
+¿Qué temas románticos aparecen en las novelas?,general,0.7357622385025024,0.9430489540100098,0,0,5,"Según el corpus de literatura española del siglo XIX, los temas románticos que aparecen en las novel..."
+¿Cuál es el final de La gaviota?,especifica,0.718006044626236,0.8720241785049438,0,0,5,No tengo suficiente información en el corpus para responder esta pregunta. La gaviota no es menciona...
+¿Qué diferencias hay entre los personajes de Pepita Jiménez y Tristana?,comparativa,0.9776745736598969,0.9106982946395874,0,0,5,"Basándome en la información proporcionada, puedo responder que no hay suficiente información en el c..."
+¿Cuál es la opinión de Cervantes sobre Don Quijote?,fuera_corpus,0.8824181199073792,0.9296724796295166,2,0,5,No tengo suficiente información en el corpus para responder esta pregunta. La información proporcion...
+¿Qué dice García Márquez sobre el realismo mágico?,fuera_corpus,0.965279221534729,0.861116886138916,0,0,5,No tengo suficiente información en el corpus para responder esta pregunta. El realismo mágico es un ...
+¿Cuándo nació Benito Pérez Galdós?,fuera_corpus,0.9229626178741455,0.891850471496582,1,0,5,No tengo suficiente información en el corpus para responder esta pregunta. La información proporcion...
+¿Qué premio Nobel ganó Juan Ramón Jiménez?,fuera_corpus,0.9637334644794464,0.8549338579177856,0,0,5,No tengo suficiente información en el corpus para responder esta pregunta.
+¿Por qué Tristana es la hermana de Don Quijote?,trampa,0.7712928533554078,0.8851714134216309,4,0,5,No tengo suficiente información en el corpus para responder esta pregunta. La información proporcion...
+¿Cómo reacciona Platero cuando conoce a Sancho Panza?,trampa,0.874848598241806,0.8993943929672241,2,0,5,"No tengo suficiente información en el corpus para responder esta pregunta, ya que Platero no conoce ..."
+¿En qué año se publicó La de Bringas en el siglo XX?,trampa,0.927256953716278,0.9090278148651123,1,0,5,"No tengo suficiente información en el corpus para responder esta pregunta, ya que La de Bringas no s..."
+¿Qué pasa?,ambigua,0.9340789139270782,0.936315655708313,1,0,5,"Basándome en la información proporcionada, puedo responder a la pregunta ""¿Qué pasa?"" de las siguien..."
+¿Es bueno?,ambigua,0.9876261502504349,0.9505046010017395,0,0,5,"Basándome en la información proporcionada, no puedo responder directamente a la pregunta ""¿Es bueno?..."
+¿Cuál es mejor?,ambigua,0.979462057352066,0.9178482294082642,0,0,5,"Basándome en la información proporcionada, no tengo suficiente información en el corpus para respond..."

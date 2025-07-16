@@ -1,0 +1,316 @@
+{
+  "resultados": [
+    {
+      "pregunta_id": "¿Quién es el protagonista de Tristana?",
+      "tipo_pregunta": "especifica",
+      "tiene_respuesta_corpus": true,
+      "respuesta_generada": "La protagonista de Tristana es Tristana.",
+      "contextos_recuperados": 5,
+      "puntuaciones": {
+        "respuesta_cuando_debe": 1.0,
+        "similaridad_contexto": 0.8257057666778564,
+        "nombres_inventados": 0,
+        "fechas_inventadas": 0,
+        "score_general": 0.9564264416694641
+      },
+      "nombres_sospechosos": [],
+      "fechas_sospechosas": []
+    },
+    {
+      "pregunta_id": "¿Cómo se llama el burrito en Platero y yo?",
+      "tipo_pregunta": "especifica",
+      "tiene_respuesta_corpus": true,
+      "respuesta_generada": "La respuesta a la pregunta es: Platero.",
+      "contextos_recuperados": 5,
+      "puntuaciones": {
+        "respuesta_cuando_debe": 1.0,
+        "similaridad_contexto": 0.8407880067825317,
+        "nombres_inventados": 0,
+        "fechas_inventadas": 0,
+        "score_general": 0.9601970016956329
+      },
+      "nombres_sospechosos": [],
+      "fechas_sospechosas": []
+    },
+    {
+      "pregunta_id": "¿Qué temas románticos aparecen en las novelas?",
+      "tipo_pregunta": "general",
+      "tiene_respuesta_corpus": true,
+      "respuesta_generada": "Según el corpus de literatura española del siglo XIX, los temas románticos que aparecen en las novelas son:\n\n* La lectura de novelas (De Su_unico_hijo_pg17341)\n* Recitar versos de autores románticos como Zorrilla, duque de Rivas, Larrañaga y D. Heriberto García de Quevedo (De Su_unico_hijo_pg17341)\n* Representar dramas románticos como _El Trovador_, _El Paje_, _Zoraida_ y otros (De Su_unico_hijo_pg17341)\n* La idea de la \"última palabra\" de los revolucionarios en _La Iberia_ (De La_de_Bringas_314648)\n* La simpatía del Ejército y la Marina con la revolución (De La_de_Bringas_314648)\n* La idea de la \"torpeza\" del Gobierno y la prisión de generales y del duque de Montpensier (De La_de_Bringas_314648)\n* La idea de la \"última reto\" del Gobierno (De La_de_Bringas_314648)\n\nNo tengo suficiente información en el corpus para responder sobre otros temas románticos que puedan aparecer en las novelas.",
+      "contextos_recuperados": 5,
+      "puntuaciones": {
+        "respuesta_cuando_debe": 0.0,
+        "similaridad_contexto": 0.9430489540100098,
+        "nombres_inventados": 0,
+        "fechas_inventadas": 0,
+        "score_general": 0.7357622385025024
+      },
+      "nombres_sospechosos": [],
+      "fechas_sospechosas": []
+    },
+    {
+      "pregunta_id": "¿Cuál es el final de La gaviota?",
+      "tipo_pregunta": "especifica",
+      "tiene_respuesta_corpus": true,
+      "respuesta_generada": "No tengo suficiente información en el corpus para responder esta pregunta. La gaviota no es mencionada en el corpus proporcionado.",
+      "contextos_recuperados": 5,
+      "puntuaciones": {
+        "respuesta_cuando_debe": 0.0,
+        "similaridad_contexto": 0.8720241785049438,
+        "nombres_inventados": 0,
+        "fechas_inventadas": 0,
+        "score_general": 0.718006044626236
+      },
+      "nombres_sospechosos": [],
+      "fechas_sospechosas": []
+    },
+    {
+      "pregunta_id": "¿Qué diferencias hay entre los personajes de Pepita Jiménez y Tristana?",
+      "tipo_pregunta": "comparativa",
+      "tiene_respuesta_corpus": true,
+      "respuesta_generada": "Basándome en la información proporcionada, puedo responder que no hay suficiente información en el corpus para responder esta pregunta. La información proporcionada solo se refiere a la novela \"Pepita Jiménez\" y no incluye información sobre la novela \"Tristana\". Por lo tanto, no puedo establecer diferencias entre los personajes de ambas novelas.",
+      "contextos_recuperados": 5,
+      "puntuaciones": {
+        "respuesta_cuando_debe": 1.0,
+        "similaridad_contexto": 0.9106982946395874,
+        "nombres_inventados": 0,
+        "fechas_inventadas": 0,
+        "score_general": 0.9776745736598969
+      },
+      "nombres_sospechosos": [],
+      "fechas_sospechosas": []
+    },
+    {
+      "pregunta_id": "¿Cuál es la opinión de Cervantes sobre Don Quijote?",
+      "tipo_pregunta": "fuera_corpus",
+      "tiene_respuesta_corpus": false,
+      "respuesta_generada": "No tengo suficiente información en el corpus para responder esta pregunta. La información proporcionada no contiene opiniones de Cervantes sobre Don Quijote, ya que se refiere a obras y personajes de autores diferentes, como Pez, Marqués de Tablanca, Isidora y Agustina, entre otros.",
+      "contextos_recuperados": 5,
+      "puntuaciones": {
+        "manejo_sin_respuesta": 1.0,
+        "similaridad_contexto": 0.9296724796295166,
+        "nombres_inventados": 2,
+        "fechas_inventadas": 0,
+        "score_general": 0.8824181199073792
+      },
+      "nombres_sospechosos": [
+        "Cervantes",
+        "Isidora"
+      ],
+      "fechas_sospechosas": []
+    },
+    {
+      "pregunta_id": "¿Qué dice García Márquez sobre el realismo mágico?",
+      "tipo_pregunta": "fuera_corpus",
+      "tiene_respuesta_corpus": false,
+      "respuesta_generada": "No tengo suficiente información en el corpus para responder esta pregunta. El realismo mágico es un concepto literario que se refiere a la mezcla de elementos realistas y mágicos en la narrativa, pero no se menciona en los textos proporcionados.",
+      "contextos_recuperados": 5,
+      "puntuaciones": {
+        "manejo_sin_respuesta": 1.0,
+        "similaridad_contexto": 0.861116886138916,
+        "nombres_inventados": 0,
+        "fechas_inventadas": 0,
+        "score_general": 0.965279221534729
+      },
+      "nombres_sospechosos": [],
+      "fechas_sospechosas": []
+    },
+    {
+      "pregunta_id": "¿Cuándo nació Benito Pérez Galdós?",
+      "tipo_pregunta": "fuera_corpus",
+      "tiene_respuesta_corpus": false,
+      "respuesta_generada": "No tengo suficiente información en el corpus para responder esta pregunta. La información proporcionada no incluye la fecha de nacimiento de Benito Pérez Galdós.",
+      "contextos_recuperados": 5,
+      "puntuaciones": {
+        "manejo_sin_respuesta": 1.0,
+        "similaridad_contexto": 0.891850471496582,
+        "nombres_inventados": 1,
+        "fechas_inventadas": 0,
+        "score_general": 0.9229626178741455
+      },
+      "nombres_sospechosos": [
+        "Benito"
+      ],
+      "fechas_sospechosas": []
+    },
+    {
+      "pregunta_id": "¿Qué premio Nobel ganó Juan Ramón Jiménez?",
+      "tipo_pregunta": "fuera_corpus",
+      "tiene_respuesta_corpus": false,
+      "respuesta_generada": "No tengo suficiente información en el corpus para responder esta pregunta.",
+      "contextos_recuperados": 5,
+      "puntuaciones": {
+        "manejo_sin_respuesta": 1.0,
+        "similaridad_contexto": 0.8549338579177856,
+        "nombres_inventados": 0,
+        "fechas_inventadas": 0,
+        "score_general": 0.9637334644794464
+      },
+      "nombres_sospechosos": [],
+      "fechas_sospechosas": []
+    },
+    {
+      "pregunta_id": "¿Por qué Tristana es la hermana de Don Quijote?",
+      "tipo_pregunta": "trampa",
+      "tiene_respuesta_corpus": false,
+      "respuesta_generada": "No tengo suficiente información en el corpus para responder esta pregunta. La información proporcionada no menciona que Tristana sea la hermana de Don Quijote. De hecho, Tristana es un personaje de la novela \"Tristana\" de Benito Pérez Galdós, mientras que Don Quijote es el protagonista de la novela \"Don Quijote de la Mancha\" de Miguel de Cervantes. No hay conexión entre ambos personajes en el corpus proporcionado.",
+      "contextos_recuperados": 5,
+      "puntuaciones": {
+        "manejo_sin_respuesta": 1.0,
+        "similaridad_contexto": 0.8851714134216309,
+        "nombres_inventados": 4,
+        "fechas_inventadas": 0,
+        "score_general": 0.7712928533554078
+      },
+      "nombres_sospechosos": [
+        "Benito",
+        "Cervantes",
+        "Tristana",
+        "Miguel"
+      ],
+      "fechas_sospechosas": []
+    },
+    {
+      "pregunta_id": "¿Cómo reacciona Platero cuando conoce a Sancho Panza?",
+      "tipo_pregunta": "trampa",
+      "tiene_respuesta_corpus": false,
+      "respuesta_generada": "No tengo suficiente información en el corpus para responder esta pregunta, ya que Platero no conoce a Sancho Panza en ninguno de los textos proporcionados.",
+      "contextos_recuperados": 5,
+      "puntuaciones": {
+        "manejo_sin_respuesta": 1.0,
+        "similaridad_contexto": 0.8993943929672241,
+        "nombres_inventados": 2,
+        "fechas_inventadas": 0,
+        "score_general": 0.874848598241806
+      },
+      "nombres_sospechosos": [
+        "Sancho",
+        "Panza"
+      ],
+      "fechas_sospechosas": []
+    },
+    {
+      "pregunta_id": "¿En qué año se publicó La de Bringas en el siglo XX?",
+      "tipo_pregunta": "trampa",
+      "tiene_respuesta_corpus": false,
+      "respuesta_generada": "No tengo suficiente información en el corpus para responder esta pregunta, ya que La de Bringas no se menciona como publicada en el siglo XX.",
+      "contextos_recuperados": 5,
+      "puntuaciones": {
+        "manejo_sin_respuesta": 1.0,
+        "similaridad_contexto": 0.9090278148651123,
+        "nombres_inventados": 1,
+        "fechas_inventadas": 0,
+        "score_general": 0.927256953716278
+      },
+      "nombres_sospechosos": [
+        "Bringas"
+      ],
+      "fechas_sospechosas": []
+    },
+    {
+      "pregunta_id": "¿Qué pasa?",
+      "tipo_pregunta": "ambigua",
+      "tiene_respuesta_corpus": false,
+      "respuesta_generada": "Basándome en la información proporcionada, puedo responder a la pregunta \"¿Qué pasa?\" de las siguientes maneras:\n\n* En \"De La de Bringas 314648\", la Bringas está pasando un momento difícil debido a un dolor de cabeza y problemas visuales, y su marido, Bonis, se va a buscar a un médico para ayudarla.\n* En \"Su único hijo pg17341\", la esposa de Bonis le pide que vaya a buscar a D. Basilio, probablemente un médico, para que la atienda debido a su mal estado de salud.\n* En \"La desheredada pg25956\", no hay información específica sobre qué está pasando, pero se describe una escena de caos y confusión en la calle.\n* En \"Tristana pg66979\", no hay información sobre qué está pasando, pero se describe la capacidad de la protagonista para sentir y fingir la vida.\n\nEn resumen, en \"De La de Bringas 314648\" y \"Su único hijo pg17341\", se describe un momento de crisis y necesidad de atención médica, mientras que en \"La desheredada pg25956\" y \"Tristana pg66979\", no hay información específica sobre qué está pasando.",
+      "contextos_recuperados": 5,
+      "puntuaciones": {
+        "manejo_sin_respuesta": 1.0,
+        "similaridad_contexto": 0.936315655708313,
+        "nombres_inventados": 1,
+        "fechas_inventadas": 0,
+        "score_general": 0.9340789139270782
+      },
+      "nombres_sospechosos": [
+        "Bonis"
+      ],
+      "fechas_sospechosas": []
+    },
+    {
+      "pregunta_id": "¿Es bueno?",
+      "tipo_pregunta": "ambigua",
+      "tiene_respuesta_corpus": false,
+      "respuesta_generada": "Basándome en la información proporcionada, no puedo responder directamente a la pregunta \"¿Es bueno?\" sin más contexto. Sin embargo, puedo analizar los fragmentos de texto proporcionados y encontrar algunos patrones y sentimientos que se pueden relacionar con la idea de \"bueno\".\n\nEn el fragmento de \"De Tristana\", se describe una escena de amor y deseo entre dos personajes, donde el hombre expresa su gratitud y amor por la mujer, a pesar de su vejez y pobreza. El tono es emotivo y apasionado, lo que sugiere que el amor puede ser una fuerza positiva y \"bueno\".\n\nEn el fragmento de \"Peñas arriba\", se describe una escena de soledad y deseo de compañía, donde un personaje propone compartir su vida con otro. El tono es melancólico y nostálgico, lo que sugiere que la soledad puede ser una experiencia negativa y que la compañía puede ser una forma de encontrar felicidad.\n\nEn el fragmento de \"La desheredada\", se describe una escena de pobreza y desesperación, donde una mujer pide ayuda económica a un hombre. El tono es desesperado y desesperanzado, lo que sugiere que la pobreza puede ser una experiencia negativa y que la ayuda puede ser una forma de encontrar alivio.\n\nEn el fragmento de \"La de Bringas\", se describe una escena de conversación entre dos personajes, donde se habla sobre la recuperación de la vista de alguien. El tono es neutro y objetivo, lo que sugiere que la conversación es simplemente informativa y no tiene un valor moral o ético.\n\nEn general, los fragmentos de texto proporcionados no ofrecen una respuesta clara a la pregunta \"¿Es bueno?\", ya que cada escena tiene un tono y significado diferente. Sin embargo, podemos concluir que el amor, la compañía y la ayuda pueden ser experiencias positivas y \"buenas\", mientras que la soledad, la pobreza y la desesperación pueden ser experiencias negativas y \"malas\".",
+      "contextos_recuperados": 5,
+      "puntuaciones": {
+        "manejo_sin_respuesta": 1.0,
+        "similaridad_contexto": 0.9505046010017395,
+        "nombres_inventados": 0,
+        "fechas_inventadas": 0,
+        "score_general": 0.9876261502504349
+      },
+      "nombres_sospechosos": [],
+      "fechas_sospechosas": []
+    },
+    {
+      "pregunta_id": "¿Cuál es mejor?",
+      "tipo_pregunta": "ambigua",
+      "tiene_respuesta_corpus": false,
+      "respuesta_generada": "Basándome en la información proporcionada, no tengo suficiente información en el corpus para responder la pregunta \"¿Cuál es mejor?\" ya que no se proporciona un contexto o un objeto o situación que se pueda comparar.",
+      "contextos_recuperados": 5,
+      "puntuaciones": {
+        "manejo_sin_respuesta": 1.0,
+        "similaridad_contexto": 0.9178482294082642,
+        "nombres_inventados": 0,
+        "fechas_inventadas": 0,
+        "score_general": 0.979462057352066
+      },
+      "nombres_sospechosos": [],
+      "fechas_sospechosas": []
+    }
+  ],
+  "estadisticas": {
+    "total_preguntas": 15,
+    "por_tipo": {
+      "especifica": {
+        "count": 3,
+        "score_promedio": 0.8782098293304443,
+        "score_std": 0.11329164063275513,
+        "nombres_inventados_promedio": 0.0,
+        "casos_problematicos": 0
+      },
+      "general": {
+        "count": 1,
+        "score_promedio": 0.7357622385025024,
+        "score_std": 0.0,
+        "nombres_inventados_promedio": 0.0,
+        "casos_problematicos": 0
+      },
+      "comparativa": {
+        "count": 1,
+        "score_promedio": 0.9776745736598969,
+        "score_std": 0.0,
+        "nombres_inventados_promedio": 0.0,
+        "casos_problematicos": 0
+      },
+      "fuera_corpus": {
+        "count": 4,
+        "score_promedio": 0.9335983559489249,
+        "score_std": 0.03407468817199853,
+        "nombres_inventados_promedio": 0.75,
+        "casos_problematicos": 0
+      },
+      "trampa": {
+        "count": 3,
+        "score_promedio": 0.8577994684378307,
+        "score_std": 0.06480331663656579,
+        "nombres_inventados_promedio": 2.3333333333333335,
+        "casos_problematicos": 0
+      },
+      "ambigua": {
+        "count": 3,
+        "score_promedio": 0.9670557071765264,
+        "score_std": 0.02355510946660953,
+        "nombres_inventados_promedio": 0.3333333333333333,
+        "casos_problematicos": 0
+      }
+    },
+    "metricas_generales": {
+      "score_promedio_global": 0.9038016833861668,
+      "score_std_global": 0.08754988853298187,
+      "nombres_inventados_total": 11,
+      "casos_problematicos_total": 0,
+      "porcentaje_casos_problematicos": 0.0
+    }
+  },
+  "timestamp": "20250716_154528"
+}
