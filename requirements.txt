@@ -7,5 +7,17 @@ spacy==3.8.7
 wordcloud==1.9.4
 textstat==0.7.7
 plotly==6.2.0
+
+# Dependencias para generar embeddings con Chroma
 chromadb==1.0.15
 sentence-transformers==5.0.0
+langchain>=0.3.26
+
+# Dependencias opcionales para mejorar rendimiento
+faiss-cpu>=1.7.4
+torch>=2.0.0
+transformers>=4.35.0
+
+# Dependencias para el modelo llm y deployment
+streamlit==1.46.1
+groq==0.30.0
