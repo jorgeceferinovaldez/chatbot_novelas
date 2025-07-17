@@ -1,3 +1,4 @@
+# Dependencias principales para análisis de datos
 pandas==2.3.1
 numpy==2.2.6
 matplotlib==3.10.3
@@ -8,6 +9,13 @@ wordcloud==1.9.4
 textstat==0.7.7
 plotly==6.2.0
 gdown==5.2.0
+
+# Jupyter y widgets necesarios (AGREGADO PARA RESOLVER EL ERROR)
+jupyter>=1.0.0
+jupyterlab>=3.0.0
+ipywidgets>=7.6.0
+widgetsnbextension>=3.5.0
+tqdm>=4.62.0
 
 # Dependencias para generar embeddings con Chroma
 chromadb==1.0.15
