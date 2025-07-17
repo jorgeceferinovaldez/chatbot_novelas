@@ -362,6 +362,12 @@ python 4_evaluacion_hallucination.py
 - **Puntuación 0.6-0.8**: Respuesta moderadamente relevante
 - **Puntuación < 0.6**: Respuesta poco relevante o posible alucinación
 
+### Video Demo
+
+<a href="https://drive.google.com/file/d/1HzPjbUSHoUPm3FGewDApTpodLBGq5Qqq/view?usp=sharing" target="_blank">
+    <img src="./img/demo_chatbot.png" alt="Descripción de la imagen">
+</a>
+
 ## Solución de Problemas
 
 ### Error: Modelo de spaCy no encontrado
