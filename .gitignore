@@ -1,3 +1,7 @@
+
+# Ingorar el directorio de datos de novelas
+novelas_txt/
+
 # Ignorar la carpeta de corpus procesado
 corpus_procesado/
 
